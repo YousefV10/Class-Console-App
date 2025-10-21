@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yusif\\source\\repos\\Last Dance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C857857E-BECD-435B-AC7B-63961482E16F}|Last Dance\\Last Dance.csproj|c:\\users\\yusif\\source\\repos\\last dance\\last dance\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C857857E-BECD-435B-AC7B-63961482E16F}|Last Dance\\Last Dance.csproj|solutionrelative:last dance\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C857857E-BECD-435B-AC7B-63961482E16F}|Last Dance\\Last Dance.csproj|c:\\users\\yusif\\source\\repos\\last dance\\last dance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C857857E-BECD-435B-AC7B-63961482E16F}|Last Dance\\Last Dance.csproj|solutionrelative:last dance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\Last Dance\\Last Dance\\User.cs",
+              "RelativeDocumentMoniker": "Last Dance\\User.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\Last Dance\\Last Dance\\User.cs",
+              "RelativeToolTip": "Last Dance\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:30:38.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\Last Dance\\Last Dance\\Program.cs",
+              "RelativeDocumentMoniker": "Last Dance\\Program.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\Last Dance\\Last Dance\\Program.cs",
+              "RelativeToolTip": "Last Dance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T01:29:03.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
