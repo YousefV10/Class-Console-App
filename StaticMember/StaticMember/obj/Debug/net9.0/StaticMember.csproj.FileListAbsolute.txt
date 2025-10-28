@@ -1,0 +1,15 @@
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\bin\Debug\net9.0\StaticMember.exe
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\bin\Debug\net9.0\StaticMember.deps.json
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\bin\Debug\net9.0\StaticMember.runtimeconfig.json
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\bin\Debug\net9.0\StaticMember.dll
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\bin\Debug\net9.0\StaticMember.pdb
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.AssemblyInfoInputs.cache
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.AssemblyInfo.cs
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.sourcelink.json
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.dll
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\refint\StaticMember.dll
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.pdb
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\StaticMember.genruntimeconfig.cache
+C:\Users\Yusif\source\repos\StaticMember\StaticMember\obj\Debug\net9.0\ref\StaticMember.dll
