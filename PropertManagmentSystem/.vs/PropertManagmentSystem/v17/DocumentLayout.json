@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\apartmentbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\apartmentbuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\irentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\irentable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\officebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\officebuilding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|c:\\users\\yusif\\source\\repos\\propertmanagmentsystem\\propertmanagmentsystem\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697665A4-11FF-442F-8764-E0F489B364A6}|PropertManagmentSystem\\PropertManagmentSystem.csproj|solutionrelative:propertmanagmentsystem\\registry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Extension.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\Extension.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Extension.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\Extension.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:02:05.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registry.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Registry.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\Registry.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Registry.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\Registry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:42:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRentable.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\IRentable.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\IRentable.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\IRentable.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\IRentable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:25:33.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OfficeBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\OfficeBuilding.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\OfficeBuilding.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\OfficeBuilding.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\OfficeBuilding.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wCYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:43:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApartmentBuilding.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\ApartmentBuilding.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\ApartmentBuilding.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\ApartmentBuilding.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\ApartmentBuilding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:43:24.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Building.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\Building.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Building.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\Building.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:39:59.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Property.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\Property.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Property.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\Property.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:35:41.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "PropertManagmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Yusif\\source\\repos\\PropertManagmentSystem\\PropertManagmentSystem\\Program.cs",
+              "RelativeToolTip": "PropertManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T06:31:20.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
