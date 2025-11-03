@@ -1,0 +1,15 @@
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.AssemblyInfoInputs.cache
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.AssemblyInfo.cs
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.sourcelink.json
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\bin\Debug\net9.0\DnDClassMember.exe
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\bin\Debug\net9.0\DnDClassMember.deps.json
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\bin\Debug\net9.0\DnDClassMember.runtimeconfig.json
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\bin\Debug\net9.0\DnDClassMember.dll
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\bin\Debug\net9.0\DnDClassMember.pdb
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.dll
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\refint\DnDClassMember.dll
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.pdb
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\DnDClassMember.genruntimeconfig.cache
+C:\Users\Yusif\source\repos\DnDClassMember\DnDClassMember\obj\Debug\net9.0\ref\DnDClassMember.dll
