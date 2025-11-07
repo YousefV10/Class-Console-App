@@ -1,0 +1,15 @@
+C:\Users\Yusif\source\repos\IDK2\IDK2\bin\Debug\net9.0\IDK2.exe
+C:\Users\Yusif\source\repos\IDK2\IDK2\bin\Debug\net9.0\IDK2.deps.json
+C:\Users\Yusif\source\repos\IDK2\IDK2\bin\Debug\net9.0\IDK2.runtimeconfig.json
+C:\Users\Yusif\source\repos\IDK2\IDK2\bin\Debug\net9.0\IDK2.dll
+C:\Users\Yusif\source\repos\IDK2\IDK2\bin\Debug\net9.0\IDK2.pdb
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.AssemblyInfoInputs.cache
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.AssemblyInfo.cs
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.sourcelink.json
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.dll
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\refint\IDK2.dll
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.pdb
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\IDK2.genruntimeconfig.cache
+C:\Users\Yusif\source\repos\IDK2\IDK2\obj\Debug\net9.0\ref\IDK2.dll
